@@ -85,3 +85,18 @@ The dataset consists of three files:
 
 4. **Nearest Neighbors**:
    - Used K-Nearest Neighbors (KNN) with cosine similarity to recommend movies.
+
+## Results
+
+Key Findings
+
+- Most movies are rated 4.0, indicating a positive bias in user ratings.
+- The majority of movies were released in the 1990s.
+- Users aged 25-34 are the most active movie consumers.
+- Males consume more content than females.
+- College students are the largest group of media consumers.
+
+## Recommendation Examples
+
+- For the movie "E.T. the Extra-Terrestrial", the system recommended 5 matching movies compared to Google's recommendations.
+- For UserID 5343, the system recommended movies aligned with their preferred genres.
