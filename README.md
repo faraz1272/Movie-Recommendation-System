@@ -85,14 +85,3 @@ The dataset consists of three files:
 
 4. **Nearest Neighbors**:
    - Used K-Nearest Neighbors (KNN) with cosine similarity to recommend movies.
-
----
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/movie-recommendation-system.git
-   cd movie-recommendation-system
